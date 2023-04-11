@@ -14,11 +14,6 @@
     "body": "func $1($2) $3 {\n\t$0\n}",
     "description": "Snippet for function declaration"
   },
-  "if err != nil": {
-    "prefix": "iferr",
-    "body": "if err != nil {\n\t${1:return ${2:nil, }${3:err}}\n}",
-    "description": "Snippet for if err != nil"
-  },
   "goroutine anonymous function": {
     "prefix": "gofunc",
     "body": "go func($1) {\n\t$0\n}($2)",
