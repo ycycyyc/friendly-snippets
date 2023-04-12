@@ -14,10 +14,6 @@
         "path": "./snippets/cpp.json"
       },
       {
-        "language": "go",
-        "path": "./snippets/go.json"
-      },
-      {
         "language": "rust",
         "path": "./snippets/rust.json"
       },
